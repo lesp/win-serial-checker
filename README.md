@@ -16,4 +16,11 @@ And then you can copy it to your ```/usr/bin``` directory for easy access and us
 sudo cp win-serial /usr/bin/
 ```
 
+Then to run the command just type the following into the terminal
+
+```
+sudo win-serial
+```
+
 Nothing fancy, just something quick and easy to call on!
+
